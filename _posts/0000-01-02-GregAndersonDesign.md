@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+When you're feeling blue, breathe!
+
 Use the left arrow to go back!
